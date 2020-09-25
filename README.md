@@ -1,3 +1,6 @@
+# study-react-tableless
+Projeto criado para estudo, seguindo este tutorial do Tableless: https://tableless.com.br/criando-sua-primeira-aplicacao-web-com-react/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
